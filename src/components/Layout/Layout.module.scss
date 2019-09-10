@@ -2,5 +2,14 @@
 @import '../../assets/scss/mixins';
 
 .layout {
-    lost-center: $layout-width;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+@include breakpoint-sm {
+  .layout {
+    width: 80%;
+  }
 }

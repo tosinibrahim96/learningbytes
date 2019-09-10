@@ -15,15 +15,7 @@ const useSiteMetadata = () => {
                 facebook
                 linkedin
                 github
-                twitter
-                telegram
-                instagram
-                email
-                rss
-                vkontakte
-                line
-                gitlab
-                weibo
+                mywebsite
               }
             }
             menu {
@@ -33,7 +25,6 @@ const useSiteMetadata = () => {
             url
             title
             subtitle
-            copyright
             disqusShortname
           }
         }

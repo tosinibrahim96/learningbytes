@@ -3,6 +3,7 @@
 
 .page {
   @include margin-bottom(2);
+  lost-column: 12/12;
 
   &__inner {
     padding: 25px 20px;
@@ -21,7 +22,6 @@
     @include line-height(1);
     @include margin(0, 0, 1);
   }
-
 }
 
 @include breakpoint-sm {
@@ -31,19 +31,16 @@
     &__inner {
       padding: 30px 20px;
     }
-
   }
-
 }
 
 @include breakpoint-md {
   .page {
     lost-column: 2/3;
+    margin-left: 20%;
 
     &__inner {
       padding: 40px 35px;
     }
-
   }
-
 }
