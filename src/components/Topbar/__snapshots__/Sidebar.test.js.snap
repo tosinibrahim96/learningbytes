@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Sidebar renders correctly 1`] = `
+exports[`Topbar renders correctly 1`] = `
 <div
-  className="sidebar"
+  className="Topbar"
 >
   <div
-    className="sidebar__inner"
+    className="Topbar__inner"
   >
     <div
       className="author"
