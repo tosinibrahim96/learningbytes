@@ -1,7 +1,7 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
-.sidebar {
+.Topbar {
   width: 100%;
   margin-top: 5%;
   &__inner {
@@ -11,7 +11,7 @@
 }
 
 @include breakpoint-sm {
-  .sidebar {
+  .Topbar {
     lost-column: 12/12;
 
     &__inner {
@@ -38,7 +38,7 @@
 }
 
 @include breakpoint-md {
-  .sidebar {
+  .Topbar {
     lost-column: 2/3;
     margin-left: 20%;
     &__inner {

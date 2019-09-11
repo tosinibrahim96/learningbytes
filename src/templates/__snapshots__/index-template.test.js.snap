@@ -5,10 +5,10 @@ exports[`IndexTemplate renders correctly 1`] = `
   className="layout"
 >
   <div
-    className="sidebar"
+    className="Topbar"
   >
     <div
-      className="sidebar__inner"
+      className="Topbar__inner"
     >
       <div
         className="author"

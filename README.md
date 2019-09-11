@@ -131,7 +131,7 @@ $ gatsby serve
     │   │   ├── Content
     │   │   ├── Meta
     │   │   └── Tags
-    │   └── Sidebar
+    │   └── Topbar
     │       ├── Author
     │       ├── Contacts
     │       ├── Copyright
