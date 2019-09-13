@@ -1,4 +1,4 @@
-# Improvementbits 💪
+# Improvementbytes 💪
 Learning notes taken by a random guy trying to be a better software developer 😁.
 
 
