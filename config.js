@@ -15,7 +15,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Improvement Bits',
+    name: 'Improvement Bytes',
     photo: '/photo1.jpeg',
     bio:
       'Learning notes taken by a random guy trying to be a better software developer 😁.',
